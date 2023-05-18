@@ -223,7 +223,7 @@ wg show all
 
 Смотрим на transer
  
- 
+ https://github.com/storm39mad/DEMO2022
 
 
 
