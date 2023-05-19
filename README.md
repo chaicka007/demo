@@ -222,6 +222,8 @@ systemctl enable --now wg-quick@wg0
 wg show all
 
 Смотрим на transer
+
+ https://cloud.mail.ru/public/Bcye/UbYJ5qxEK
  
  https://github.com/storm39mad/DEMO2022
 
