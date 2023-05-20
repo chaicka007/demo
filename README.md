@@ -1,3 +1,5 @@
+https://github.com/cupespresso22/DEMO2022-2023-linux-only
+
 https://cloud.mail.ru/public/Bcye/UbYJ5qxEK - сборник инструкций от Градова
 
 ================================================================
